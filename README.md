@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Eduard @StepDev24
+- 👋 Hi, I’m Eduard and my channel is https://t.me/StepDev24
 - 🌱 I will teach you how to work with Bitrix and Bitrix24
 - 📫 How to reach me stepdev24@gmail.com
