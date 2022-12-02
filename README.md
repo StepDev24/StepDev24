@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eduard @StepDev24
+- 🌱 I will teach you how to work with Bitrix and Bitrix24
+- 📫 How to reach me stepdev24@gmail.com
